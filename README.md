@@ -8,6 +8,7 @@
 <br>
 <p>The system has a simple operation and allows the user to store and consult people's data, with options for its management, as well as generating reports that provide data related to people's habits, informing all the weighing data and carrying out their treatment. under arithmetic operations that inform the user about the situation.</p>
 <br>
+<p>The project was developed in Netbeans IDE, using Java and MySQL.</p> 
 <p>Its possible have access to complete project information in: PATP7.pdf </p>
 
 <h4>1 - System Modeling</h4>
